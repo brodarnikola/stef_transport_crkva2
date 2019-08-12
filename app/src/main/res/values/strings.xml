@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SeeUsVehicle</string>
+    <string name="test_fairy_app_key">fe49759043cc93652b323befce1cf28bef05ff37</string>
+
+    <string name="people_details">People Details</string>
+    <string name="add_people">Add People</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_met_at">Met at</string>
+    <string name="hint_contact">Contact</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_facebook">Facebook</string>
+    <string name="hint_twitter">Twitter</string>
+
+    <string name="people_id">PEOPLE_ID</string>
+
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+
+    <string name="startup_btn_retry">Retry</string>
+
+    <string name="error_startup_no_permissions">Location permissions are required!</string>
+    <string name="error_startup_no_internet">You don\'t have internet connection or something went wrong. Please contact the support.</string>
+    <string name="error_startup_not_whitelisted">App not whitelisted as a Kiosk mode app! Please enable Kiosk mode using ADB.</string>
+</resources>

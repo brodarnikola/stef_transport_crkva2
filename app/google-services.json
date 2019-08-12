@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087384218237",
+    "firebase_url": "https://seeusvehicleapp.firebaseio.com",
+    "project_id": "seeusvehicleapp",
+    "storage_bucket": "seeusvehicleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087384218237:android:fab64d3b8831af70",
+        "android_client_info": {
+          "package_name": "hr.sil.android.seeusvehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087384218237-3dtka2jpg3nqe5jr0tqnoi42ec114uge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApgVTFudtTrIu-vgcnfD9ouz4J1FlLp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087384218237-3dtka2jpg3nqe5jr0tqnoi42ec114uge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
